@@ -1,5 +1,4 @@
 # JavaWeb-Experiment4--JDBC-database-connection-and-Dao-design-pattern
-实验4-JDBC数据库连接与DAO设计模式
 对课堂案例——学生信息管理系统进行完善，实现对学生信息的增、删、改、查功能，要求采用DAO设计模式。
 
 数据库脚本如下：
