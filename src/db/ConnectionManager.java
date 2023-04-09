@@ -4,7 +4,7 @@ import java.sql.*;
 
 public class ConnectionManager {
     private static final String DRIVER_CLASS="com.mysql.cj.jdbc.Driver";
-    private static final String DATABASE_URL="jdbc:mysql://127.0.0.1:3306/xscj? useSSL=false & serverTimezone=UTC";
+    private static final String DATABASE_URL="jdbc:mysql://127.0.0.1:3306/xscj? useSSL=false &allowPublicKeyRetrieval=true& serverTimezone=UTC";
     private static final String DATABASE_USRE = "root";
     private static final String DATABASE_PASSWORD = "gg20030713";
 
